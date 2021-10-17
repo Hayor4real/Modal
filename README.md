@@ -1,1 +1,1 @@
-# Modal i built a search using javascript HTML/CSS 
+# search bar i built a search using javascript HTML/CSS 
